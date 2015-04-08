@@ -1,10 +1,10 @@
 {
-  "name": "csv-parser",
+  "name": "dwa-csv-parser",
   "version": "1.5.2",
-  "description": "Streaming CSV parser that aims for maximum speed as well as compatibility with the csv-spectrum test suite",
+  "description": "FORK OF csv-parser: Streaming CSV parser that aims for maximum speed as well as compatibility with the csv-spectrum test suite",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/csv-parser"
+    "url": "https://github.com/mister-simon/csv-parser"
   },
   "dependencies": {
     "generate-function": "^1.0.1",
@@ -32,9 +32,6 @@
     "fast",
     "json"
   ],
-  "bugs": {
-    "url": "https://github.com/mafintosh/csv-parser/issues"
-  },
   "homepage": "https://github.com/mafintosh/csv-parser",
   "main": "index.js",
   "directories": {
